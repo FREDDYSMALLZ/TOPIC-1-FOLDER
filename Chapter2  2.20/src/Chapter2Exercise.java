@@ -3,7 +3,7 @@ public class Chapter2Exercise {
 
 	public static void main(String args []){
 		
-		Scanner input = new Scanner(System.in);
+		Scanner input  = new Scanner(System.in);
 	//Calculation of interest
 		//Obtaining input from the question for financial application
 		
